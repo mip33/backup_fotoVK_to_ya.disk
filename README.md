@@ -1,0 +1,1 @@
+# backup_fotoVK_to_ya.disk
